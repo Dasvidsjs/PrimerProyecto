@@ -1,0 +1,27 @@
+.imagen-redonda{
+    float: left;
+    margin-right: 50px;
+    margin-left: 60px;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+  }
+  .contenedor-info{
+    clear: both;
+  }
+  .card-container {
+    margin-left: auto; 
+    width: 100%;
+    left: 100px;
+    
+  }
+  .card-container2 {
+    margin-left: auto; 
+    width: 100%;
+    right: 100px;
+  }
+  .card-container3{
+    margin-left: auto; 
+    width: 100%;
+    right: 100px;
+  }
